@@ -6,7 +6,7 @@
 <body bgcolor="#A6ACAF">
 
   <center>
-	<marquee bgcolor="#4A235A" > <font color="white" size="4"> If you want to shine like a sun, First burn lika sun**. </font> </marquee>
+	<marquee bgcolor="#4A235A" > <font color="white" size="4"> ** If you want to shine like a sun, First burn lika sun **. </font> </marquee>
   </center>
 <p/>
 
