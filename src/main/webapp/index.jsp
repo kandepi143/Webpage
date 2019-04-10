@@ -6,7 +6,7 @@
 <body bgcolor="#A6ACAF">
 
   <center>
-	<marquee bgcolor="#4A235A" > <font color="white" size="4">If you want to shine like a sun, First burn lika sun. </font> </marquee>
+	<marquee bgcolor="#4A235A" > <font color="white" size="4"> DevOps Online Training; contact 9603604686 </font> </marquee>
   </center>
 <p/>
 
