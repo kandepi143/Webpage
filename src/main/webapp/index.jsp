@@ -6,7 +6,7 @@
 <body bgcolor="#A6ACAF">
 
   <center>
-	<marquee bgcolor="#4A235A" > <font color="white" size="4"> Local Newtwork </font> </marquee>
+	<marquee bgcolor="#4A235A" > <font color="white" size="4"> All the glitters are not Gold </font> </marquee>
   </center>
 <p/>
 
@@ -30,6 +30,8 @@
 	</tr>
   </table>
  </center>
-
+	<h2> DevOps </h2>
+	<p> DevOps is not a particular tool or software, it is combination of multiple tools. by using devops methods we can reduce the time gap between software developer and IT professionals </p>
+	
 </body>
 </html>
