@@ -6,7 +6,7 @@
 <body bgcolor="#A6ACAF">
 
   <center>
-	<marquee bgcolor="#4A235A" > <font color="white" size="4"> If u want to shine like a Sun, First burn like a Sun. </font> </marquee>
+	<marquee bgcolor="#4A235A" > <font color="white" size="4"> Local Newtwork </font> </marquee>
   </center>
 <p/>
 
