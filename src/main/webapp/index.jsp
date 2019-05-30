@@ -19,10 +19,10 @@
 </tr>
 </table>
 <p/>
-
+	<center> <font size "6">AchiStar Technologies</font></center>
 <table width="875" align="center" cellpadding="0" cellspacing="0">
 <tr>
-<td align="center">
+<td align="right">
 <font face="arial" size="5" color="Black">
 <a href="index.html"> <font color="white">Home</font></a> | <a href="about.html"> <font color="white">About</font></a> | <a href="photos.html"> <font color="white">Photos</font></a> | <a href="contact.html"> <font color="white">Contact</a>
 </font>
@@ -35,8 +35,8 @@
 <font size="5" color="pink">
 <pre>
 
-	Name	: Kola Bala Krishna
-	Desig	: Devops Consultant
+	Name	    : Kola Bala Krishna
+	Designation : Devops Consultant
 </pre>
 </font>
 
