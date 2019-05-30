@@ -19,8 +19,9 @@
 </tr>
 </table>
 <p/>
-	<center> <font size "6">AchiStar Technologies</font></center>
+	
 <table width="875" align="center" cellpadding="0" cellspacing="0">
+	<center> <font size "6">AchiStar Technologies</font></center>
 <tr>
 <td align="right">
 <font face="arial" size="5" color="Black">
