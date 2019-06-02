@@ -1,12 +1,11 @@
-<%@ taglib uri="http://www.makumba.org/presentation" prefix="mak" %>
 <html>
 <head>
-<title> Home </title>
+<title> About </title>
 </head>
-<body background="sk.jpg" size="100%" >
+<body background="sk.jpg">
 
 <center>
- <marquee bgcolor="#E4E4E4" > <font color="black" size="4"> If you want to shine like a sun, first burn like  a sun. </font> </marquee>
+<marquee bgcolor="#E4E4E4" > <font color="black" size="4"> Patience is the key, which solves all Problems. </font> </marquee>
 </center>
 <p/>
 
@@ -18,11 +17,12 @@
 </td>
 </tr>
 </table>
-<p/>
-	
+<P/>
+
+
 <table width="875" align="center" cellpadding="0" cellspacing="0">
 <tr>
-<td align="right">
+<td align="center">
 <font face="arial" size="5" color="Black">
 <a href="index.html"> <font color="white">Home</font></a> | <a href="about.html"> <font color="white">About</font></a> | <a href="photos.html"> <font color="white">Photos</font></a> | <a href="contact.html"> <font color="white">Contact</a>
 </font>
@@ -31,14 +31,16 @@
 </table>
 </center>
 
-
-<font size="5" color="pink">
+<font size="5" color="Yellow">
 <pre>
 
-	Name	    : Kola Bala Krishna
-	Designation : Devops Consultant
+	Name	    : Subramanyam Kandepi
+	Designation : Devops Engineer
+	contact No. : 7569802726
+	E-mail      : subramanyamkandepi@gmail.com
+	
 </pre>
 </font>
-
+  
  </body>
 </html>
