@@ -1,7 +1,11 @@
+<!DOCTYPE html>
 <html>
 <head>
-<title> About </title>
+	<title>Bg Color</title>
+	<link rel="stylesheet" type="text/css" href="style.css">
 </head>
+
+
 <body background="sk.jpg">
 
 <center>
@@ -17,8 +21,6 @@
 </td>
 </tr>
 </table>
-<P/>
-
 
 <table width="875" align="center" cellpadding="0" cellspacing="0">
 <tr>
@@ -37,10 +39,20 @@
 	Name	    : Subramanyam Kandepi
 	Designation : Devops Engineer
 	contact No. : 7569802726
-	E-mail      : subramanyamkandepi@gmail.com
+	E-mail	    : subramanyamkandepi@gmail.com
 	
 </pre>
 </font>
-  
- </body>
+<pre>            <button><font size="5">Click Here to Change Color</font></button></pre>
+	<script type="text/javascript">
+		var color = ["#f44141","sk.jpg","#f44141","#222f3e","#f368e0","#ee5253","#0abde3","#10ac84","#5f27cd","#42f4ce",];
+		var i = 0;
+		document.querySelector("button").addEventListener("click",
+			function(){
+				i = i < color.length ? ++i : 0;
+		document.querySelector("body").style.background = color [i]
+			})
+	</script>
+</left>
+</body>
 </html>

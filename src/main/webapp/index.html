@@ -24,7 +24,7 @@
 <tr>
 <td align="center">
 <font face="arial" size="5" color="Black">
-<a href="index.html"> <font color="white">Home</font></a> | <a href="about.html"> <font color="white">About</font></a> | <a href="photos.html"> <font color="white">Photos</font></a> | <a href="contact.html"> <font color="white">Contact</a>
+<a href="index.html"> <font color="white">Home</font></a> | <a href="about.html"> <font color="white">About</font></a> | <a href="photos.html"> <font color="white">Photos</font></a> | <a href="bgcolor.html"> <font color="white">Background</font></a> | <a href="contact.html"> <font color="white">Contact</a>
 </font>
 </td>
 </tr>
