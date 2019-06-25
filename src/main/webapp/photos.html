@@ -1,11 +1,11 @@
+<!DOCTYPE html>
 <html>
 <head>
-<title> Photos </title>
+<title>Photos</title>
 </head>
-<body background="sk.jpg">
-
+<body bgcolor="#E4E4E4">
 <center>
-<marquee bgcolor="#E4E4E4" > <font color="black" size="4"> Your best teacher is your last Mistake. </font> </marquee>
+<marquee bgcolor="#575758" > <font color="white" size="4"> Patience is the key, which solves all Problems. </font> </marquee>
 </center>
 <p/>
 
@@ -24,22 +24,30 @@
 <tr>
 <td align="center">
 <font face="arial" size="5" color="Black">
-<a href="index.html"> <font color="white">Home</font></a> | <a href="about.html"> <font color="white">About</font></a> | <a href="photos.html"> <font color="white">Photos</font></a> | <a href="bgcolor.html"> <font color="white">Background</font></a> | <a href="contact.html"> <font color="white">Contact</a>
+<a href="index.html"> <font color="#073AF7">Home</font></a> | <a href="about.html"> <font color="#073AF7">About</font></a> | <a href="photos.html"> <font color="#073AF7">Photos</font></a> | <a href="contact.html"> <font color="#073AF7">Contact</a>
 </font>
 </td>
 </tr>
 </table>
-</center>
-<p/>
 
+
+<pre><button><font size="5">Click Here to Change Background Color</font></button></pre>
+	<script type="text/javascript">
+		var color = ["#E2F778","#FB8A4A","#64F74A","#4AF7E5","#C199F6","#FC69CE"];
+		var i = 0;
+		document.querySelector("button").addEventListener("click",
+			function(){
+				i = i < color.length ? ++i : 0;
+		document.querySelector("body").style.background = color [i]
+			})
+	</script>
+</center>
 <br/>
 <center>
 <td>
 <img src="img1.png" height="280" width="200" >  <img src="img2.png" height="280" width="200" > <img src="img3.png" height="280" width="200" >  <img src="img4.png" height="280" width="200" >
 </td>
 </center>
-
-
   
  </body>
 </html>
