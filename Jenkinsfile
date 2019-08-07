@@ -8,7 +8,7 @@ pipeline {
     }
     stage('Build') {
       steps {
-        tool(name: 'Maven', type: 'Maven')
+        tool(name: 'Maven', type: 'maven')
       }
     }
   }
