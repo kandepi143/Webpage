@@ -7,17 +7,9 @@ pipeline {
       }
     }
     stage('Build') {
-      parallel {
-        stage('Build') {
-          steps {
-            tool(name: 'Maven', type: 'maven')
-          }
-        }
-        stage('') {
-          steps {
-            sh 'mvn clean install'
-          }
-        }
+      steps {
+        tool(name: 'Maven', type: 'maven')
+        sh 'mvn clean install'
       }
     }
   }
