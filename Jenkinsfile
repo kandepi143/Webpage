@@ -9,7 +9,7 @@ pipeline {
     stage('Build') {
       steps {
         tool(name: 'Maven', type: 'maven')
-        sh 'clean install'
+        sh 'cd /var/lib/jenkins/Webpage/workspace | mvn clean install'
       }
     }
   }
