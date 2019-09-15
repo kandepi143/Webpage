@@ -5,7 +5,7 @@
   <groupId>web.com</groupId>
   <artifactId>webapps</artifactId>
   <packaging>war</packaging>
-  <version>$BUILD_ID</version>
+  <version>1.0.0</version>
   <name>Webapp</name>
   <url>http://maven.apache.org</url>
 
