@@ -6,7 +6,7 @@
   <artifactId>webapps</artifactId>
   <packaging>war</packaging>
   <version>$BUILD_ID</version>
-  <name>$BUILD_NAME</name>
+  <name>Webapp</name>
   <url>http://maven.apache.org</url>
 
   <properties>
